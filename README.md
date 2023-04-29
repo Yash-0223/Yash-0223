@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Yash Upadhyay
-- 👀 I’m interested in Learning new things.
-- 🌱 I’m currently learning Machine Learning.
+- 👀 Looking forward to make my mark into Data Analytics field.
+- 🌱 I’m enthusiatic about finding the intricacies in the data.
+- 🔭 I’m currently working on Machine Learning skills.
+- 🤔 Passionate to draw meaningful insights from the data.
 
 <!---
 Yash-0223/Yash-0223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
