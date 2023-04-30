@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Upadhyay
-- 👀 Looking forward to make my mark into Data Analytics field.
+- 👀 Looking forward to progress in Data Analytics field.
 - 🌱 I’m enthusiatic about finding the intricacies in the data.
 - 🔭 I’m currently working on Machine Learning skills.
 - 🤔 Passionate to draw meaningful insights from the data.
