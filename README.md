@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm a Data Analyst having experience of over 2 years as operations alanyst, with keen interest in handling and manipulating the data and providing the best possible insight on the same.</b>
+ <b>I'm a Data Analyst, having experience of over 2 years as Operations Alanyst, with keen interest in handling and manipulating large data and drawing the best possible insight out of it.</b>
 </h3>
  
  <h2>
