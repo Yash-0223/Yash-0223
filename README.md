@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm a Data Analyst, having experience of over 2 years as Operations Alanyst, with keen interest in handling and manipulating large data and drawing the best possible insight out of it.</b>
+ <b>I'm a Data Analyst, having experience of over 2 years as Operations Alanyst, with keen interest in handling and manipulating large data and drawing the best possible insights out of it.</b>
 </h3>
  
  <h2>
@@ -39,9 +39,9 @@
         </span>
       </span></animated-image></p>
 
- - :eyes: Looking forward to progress in Data Analytics field.</b>..
+ - :eyes: Looking forward to progress in Data Analytics field.</b>
  
- - :telescope: I’m currently working on <b> Machine Learning skills.</b>.
+ - :telescope: I’m currently working on <b> Machine Learning skills.</b>
  
  - :seedling: I’m enthusiatic about finding the intricacies in the data.
  
