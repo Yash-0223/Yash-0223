@@ -41,7 +41,7 @@
 
  - :eyes: Looking forward to progress in Data Analytics field.</b>
  - ✨ Earned Gold Badge in Python at HackerRank.
- - ✨ Earned 5 Star in SQL at HackerRank.
+ - ✨ Earned 5 Stars in SQL at HackerRank.
  
  - :telescope: I’m currently working on <b> Machine Learning skills.</b>
  
