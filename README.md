@@ -40,6 +40,8 @@
       </span></animated-image></p>
 
  - :eyes: Looking forward to progress in Data Analytics field.</b>
+ - ✨ Earned Gold Badge in Python at HackerRank.
+ - ✨ Earned 5 Star in SQL at HackerRank.
  
  - :telescope: I’m currently working on <b> Machine Learning skills.</b>
  
@@ -51,8 +53,7 @@
  
  - :thinking: Passionate to draw meaningful insights from the data.
  
- - ✨ Earned Gold Badge in Python at HackerRank.
- - ✨ Earned 5 Star in SQL at HackerRank.
+
  - ✨ Worked as Operation Analyst at Startek - Aegis Pvt. Ltd.
  
  - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/yash-upadhyay-9b642a254/" rel="nofollow" >LinkedIn</a></strong>.
