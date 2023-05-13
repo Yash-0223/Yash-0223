@@ -53,7 +53,7 @@
  
  - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/Yash-0223?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yash-0223" height="30" width="40" style="max-width: 100%;"></a></p>
  
- - :thinking: Passionate to drawing out meaningful insights from large datasets.
+ - :thinking: Passionate for drawing out meaningful insights from large datasets.
  
 
  
