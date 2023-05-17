@@ -40,7 +40,7 @@
       </span></animated-image></p>
 
  - :eyes: Looking forward to progress in the field of Data Science.</b>
- - ✨ Earned Gold Badge in Python coding and Silver Badge in SQL  at  HackerRank.
+ - ✨ Earned Gold Badge in Python coding and Silver Badge in SQL  at  HackerRank. <a href="https://www.hackerrank.com/upadhyayyash023" rel="nofollow"><img src="https://camo.githubusercontent.com/dea8697850e5e6109164b354bdb17397540dbce064f62e0d537605ac7eb8bb2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f4861636b657252616e6b5f49636f6e2d3130303070782e706e67" width="30" height="30" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style="max-width: 100%;"></a>
  - ✨ Got awarded with Gold Medal by Governor of Uttar Pradesh for Extraordinary performance during Graduation at the University.
  - ✨ Worked as Operations Analyst at StarTek - Aegis Pvt. Ltd. for 2 years and 4 months.
  
@@ -50,7 +50,7 @@
  
 
  
- - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/Yash-0223?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yash-0223" height="30" width="40" style="max-width: 100%;"></a></p>
+ - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at Github.<a href="https://github.com/Yash-0223?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yash-0223" height="30" width="40" style="max-width: 100%;"></a></p>
  
  - :thinking: Passionate for drawing out meaningful insights from large datasets.
  
