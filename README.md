@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm a Data Analyst, working in the concerned field since Jan 2021, with keen interest in handling and manipulating large data and drawing the best possible insights out of it.</b>
+ <b>Senior Business / Data Analyst with 5+ years of experience in Excel, SQL, Python, Power BI, Tableau, Forecasting & Supervised ML. Working knowledge of NLP and GenAI-assisted analytics.</b>
 </h3>
  
  <h2>
