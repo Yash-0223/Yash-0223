@@ -42,8 +42,8 @@
  - :eyes: A passionate Data / AI Analyst, looking forward to progress in the field of Data Science and AI/ML. Open to collaborate on Innovative and Exciting Projects.</b>
  - ✨ Earned Gold Badges in Python coding and SQL  at  HackerRank. <a href="https://www.hackerrank.com/upadhyayyash023" rel="nofollow"><img src="https://camo.githubusercontent.com/dea8697850e5e6109164b354bdb17397540dbce064f62e0d537605ac7eb8bb2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f4861636b657252616e6b5f49636f6e2d3130303070782e706e67" width="27" height="24" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style="max-width: 100%;"></a>
  - ✨ Got awarded with Gold Medal by Governor of Uttar Pradesh for Extraordinary performance during Graduation at the University.
- - ✨ Curretly working as a Senior AI Analyst at Impact Big Data Analytics, Bangalore since Feb 2025.
- - ✨ Worked as a Safety Data Analyst at Parexel Internationals Pvt. Ltd. since Jun 2023.
+ - ✨ Currently working as a Senior AI Analyst at Impact Big Data Analytics, Bangalore since Feb 2025.
+ - ✨ Worked as a Safety Data Analyst at Parexel Internationals Pvt. Ltd. for 1 year and 7 months.
  - ✨ Worked as Operations Analyst at StarTek - Aegis Pvt. Ltd. for 2 years and 4 months.
  - ✨ Pursued Data Analytics Certification Programme (35 weeks duration) from Masai School, Bangalore. Solved over 120 assignments, scored well in over 35 Evaluations and completed various End to End Projects.
  - ✨ Completed Bsc Radiology & IT (Graduation) from Dr. RMLAU University, Ayodhya, UP.
